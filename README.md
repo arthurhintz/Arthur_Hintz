@@ -1,16 +1,13 @@
-### Hi there 👋
+🚀 about
 
-<!--
-**HartZ0409/HartZ0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently doing a degree in Statistics in UFSM-Brazil
+- 📫 arthur.hintz@acad.ufsm.br
 
-Here are some ideas to get you started:
+### languages I work with
+<kbd>![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)</kbd>
+<kbd>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</kbd>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Favorite tools
+<kbd>![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</kbd>
+<kbd>![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)</kbd>
+<kbd>![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)</kbd>
