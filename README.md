@@ -1,6 +1,6 @@
 🚀 about
 
-- Currently doing a degree in Statistics in UFSM-Brazil
+- I am currently an undergraduate in Statistics at the Federal University of Santa Maria (UFSM), Brazil.
 - 📫 arthur.hintz@acad.ufsm.br
 
 ### languages I work with
