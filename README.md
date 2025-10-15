@@ -11,3 +11,6 @@
 <kbd>![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</kbd>
 <kbd>![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)</kbd>
 <kbd>![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)</kbd>
+
+### Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jodavid&theme=react-dark)
