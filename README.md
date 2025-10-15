@@ -14,3 +14,5 @@
 
 ### Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurhintz&theme=react-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhintz&layout=donut&theme=github_dark)
