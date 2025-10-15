@@ -13,4 +13,4 @@
 <kbd>![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)</kbd>
 
 ### Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jodavid&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurhintz&theme=react-dark)
