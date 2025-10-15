@@ -15,7 +15,3 @@
 ### Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurhintz&theme=react-dark)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhintz&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhintz&layout=pie&theme=tokyonight"/>
-</div>
